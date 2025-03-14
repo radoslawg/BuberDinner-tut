@@ -1,5 +1,4 @@
 {
-  // Settings for GitHub Copilot Chat code generation
   "github.copilot.chat.codeGeneration.instructions": [
     { "file": "docs/CodeStyle.md" },
     { "file": "docs/Api.md" }
